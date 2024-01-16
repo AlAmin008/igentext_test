@@ -1,0 +1,1 @@
+web: gunicorn gentext_bn_2.wsgi --log-file -
